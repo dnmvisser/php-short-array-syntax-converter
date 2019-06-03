@@ -1,6 +1,7 @@
 #!/usr/bin/env php
 <?php
 
+
 /**
  * PHP 5.4 Short Array Syntax Converter
  *
